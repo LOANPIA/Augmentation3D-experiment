@@ -3,7 +3,7 @@ This is my experiment for augmentation 3D Dicom image (particularly: Brain-Blood
 
 
 - Folder 10: data from scratch (https://drive.google.com/file/d/1w21_F5YxCppL1vDAd3HbawhKuoGynC1J/view?usp=sharing) 
-- Folder Finalize10: data after augmentation 
+- Folder Finalize10: data after augmentation (https://drive.google.com/file/d/1WiOiqIJzFp9dhWmf74rDZwXhkw2mqV-6/view?usp=sharing)
 - Preprocessing-2: Folder contains code of augmentation
 ++++++++++++++++++ Augmentation
 +++++++++++++++++++++++++++++++ 1/ Augmentation in geometric 
