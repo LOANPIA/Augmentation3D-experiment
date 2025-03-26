@@ -1,5 +1,5 @@
 # Augmentation3D-experiment
-This is my experiment for augmentation 3D Dicom image (particularly: Brain-BloodVolume), Segmented by Slicer3D tool
+This is my experiment for augmentation 3D Dicom image (particularly: Brain-BloodVolume), Segmented by Slicer3D tool before
 
 
 - Folder 10: data from scratch (https://drive.google.com/file/d/1w21_F5YxCppL1vDAd3HbawhKuoGynC1J/view?usp=sharing) 
